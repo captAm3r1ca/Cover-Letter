@@ -1,0 +1,26 @@
+.background-image{
+    background-image: url("https://cdn.wallpapersafari.com/13/95/i7oqAL.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contact-info{
+    color:tomato;
+    font-size: 16px;
+    padding-left: 25%;
+
+}
+#second-paragraph{
+    width: 650px;
+}
+.content{
+    width: 750px;
+    color: white;
+}
+
+
+.skill-list{
+    width: 650px;
+    color: white;
+
+}
